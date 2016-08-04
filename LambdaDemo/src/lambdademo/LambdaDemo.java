@@ -24,6 +24,7 @@ public class LambdaDemo {
         constructed in which the lambda expression implements 
         the getValue() method in MyNumber.
         */
+        
         myNum = () -> 123.45;
         //Call getValue(), which is provided by the previously assigned
         //lambda expression.

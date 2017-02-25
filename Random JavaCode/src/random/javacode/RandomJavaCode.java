@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author amitoshseu
+ * @author amitoshseu or you can called me Amitosh gain
  */
 
 public class RandomJavaCode {

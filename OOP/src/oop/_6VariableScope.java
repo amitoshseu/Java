@@ -3,7 +3,7 @@ package oop;
 
 /**
  *
- * @author amitoshseu
+ * @author Amitosh Gain
  */
 public class _6VariableScope {
     public static void main(String[] args) {
